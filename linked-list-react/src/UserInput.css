@@ -1,0 +1,22 @@
+.left {
+  padding-top: 10vh;
+  background-color: #E8F4F4;
+}
+
+input {
+  display: block;
+  margin-left: 20vw;
+  width: 60vw;
+  font-size: 2em;
+  padding: 0.5%;
+  margin-bottom: 3vh;
+}
+
+.App-title {
+  font-size: 5em;
+  color: #4CA59E;
+}
+
+.box {
+  color: #6D6E71;
+}
